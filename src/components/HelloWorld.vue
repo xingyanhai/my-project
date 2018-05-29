@@ -92,7 +92,7 @@ import Component from 'vue-class-component'
 // @Component 修饰符注明了此类为一个 Vue 组件
 @Component({})
 export default class Hello extends Vue {
-  msg: String = 'Welcome to Your Vue.js ---2018年5月29日19:01:47'
+  msg: String = ' ---2018年5月29日19:01:47'
 }
 </script>
 
